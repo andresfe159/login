@@ -71,8 +71,8 @@ body {
 
 .login-box input[type="submit"]:hover {
   cursor: pointer;
-  background: #ffc107;
-  color: #000;
+  background: #FFF;
+  color: #13347c;
 }
 
 .login-box a {
